@@ -47,8 +47,3 @@ Este documento descreve o design de software para um sistema que permitirá a AM
 - **Dúvida:** O sistema poderá ser escalado facilmente com o aumento de usuários e reportes?
 - **Solução:** Arquitetura baseada em camadas e uso de práticas de design como SOLID para facilitar a manutenção e expansão.
 
----
-
-## 6. Conclusão
-
-Este documento serve como uma base para o desenvolvimento do sistema de reporte de árvores doentes da AMMA. Com base nas questões levantadas e nas soluções propostas, o projeto pode ser desenvolvido de maneira organizada, garantindo a entrega de um sistema robusto e eficiente.
