@@ -37,13 +37,13 @@ Este documento descreve o design de software para um sistema que permitirá a AM
 
 ---
 
-## 5. Questões Pertinentes ainda não definidas
+## 4. Questões Pertinentes ainda não definidas
 
-### 5.1. Como será a estrutura do banco de dados?
+### 4.1. Como será a estrutura do banco de dados?
 - **Dúvida:** Quais tabelas são necessárias e como elas se relacionam?
 - **Solução:** Tabelas principais incluem `Arvores`, `Reportes` e `Localizacoes`, com relações entre `Arvores`, `Reportes` e `Doenças`.
 
-### 5.2. Como garantir a escalabilidade do sistema?
+### 4.2. Como garantir a escalabilidade do sistema?
 - **Dúvida:** O sistema poderá ser escalado facilmente com o aumento de usuários e reportes?
 - **Solução:** Arquitetura baseada em camadas e uso de práticas de design como SOLID para facilitar a manutenção e expansão.
 
